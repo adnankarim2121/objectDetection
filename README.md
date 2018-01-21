@@ -16,3 +16,7 @@ To run the program:
 1. Go to directory where ObjectDetect.py exists.
 2. On terminal, type:
       python ObjectDetect.py --prototxt MobileNetSSD_deploy.prototxt.txt --preTrainedModel MobileNetSSD_deploy.caffemodel --         imageOfInterest images/choiceOfImage
+Please note: 
+https://github.com/chuanqi305/MobileNet-SSD is where the following two files are found:
+MobileNetSSD_deploy.caffemodel
+MobileNetSSD_deploy.prototxt
